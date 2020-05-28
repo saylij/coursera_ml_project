@@ -1,1 +1,1 @@
-# coursera_ml_project
+# loan appication project
